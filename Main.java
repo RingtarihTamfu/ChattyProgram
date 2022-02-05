@@ -1,3 +1,10 @@
+/*
+    Author: Ringtarih Tamfu
+
+    Project: Chat Program
+*/
+
+
 package com.company;
 
 public class Main {

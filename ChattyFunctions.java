@@ -25,6 +25,7 @@ public class ChattyFunctions extends JFrame implements IChattyReceive{
         label.setText(ConvoText());
     }
 
+    //ChattyFunctions Contructor
     public ChattyFunctions(String name, IChattySend server) {
         super(); _name = name; _server = server;
         setTitle(_name);
